@@ -1,0 +1,20 @@
+{
+  "divisions": [
+    {
+      "division": "Kitchen",
+      "state": false
+    },
+    {
+      "division": "Living room",
+      "state": true
+    },
+    {
+      "division": "Master bedroom",
+      "state": false
+    },
+    {
+      "division": "Guest's bedroom",
+      "state": false
+    }
+  ]
+}

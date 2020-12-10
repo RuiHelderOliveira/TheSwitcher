@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheSwitcher_RuiOliveira</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="item_detail">Your %1$s light is</string>
+    <string name="txt_off">OFF</string>
+    <string name="txt_on">ON</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="element">Add element</string>
+    <string name="delete_division">Do you really want delete %1$s?</string>
+    <string name="delete">Delete</string>
+</resources>
